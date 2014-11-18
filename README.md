@@ -1,6 +1,8 @@
 ICViewPager
 ===========
 
+NOTE: This fork is intended for fixing the iOS8 top gap problem.
+
 You can create sliding tabs with ViewPager.
 
 Slide through the contents or select from tabs or slide through tabs and select!
